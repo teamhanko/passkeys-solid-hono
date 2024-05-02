@@ -2,6 +2,8 @@
 
 This repository demonstrates how to add passkey login functionality to your Solid.js and Bun with Hono app using the Hanko Passkey API. Passkey authentication is a secure and user-friendly alternative to traditional password-based authentication, providing a seamless login experience for users.
 
+For a detailed tutorial on implementing passkey login in your Solid.js app, refer to our blog post: [Passkeys in Solid.js and Bun](https://www.hanko.io/blog/solidjs-passkeys)
+
 ![Passkey demo](/passkey.gif)
 
 ## Prerequisites
